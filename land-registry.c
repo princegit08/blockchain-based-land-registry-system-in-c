@@ -475,8 +475,4 @@ system("clear");
    return 0;
 }
 
-//*********************************************************************************
-//run command in linux
-//gcc blockchain-based-land-registry-system.c -o blockchain-based-land-registry-system.c.o -lcrypto
-// ./blockchain-based-land-registry-system.c.o
 
